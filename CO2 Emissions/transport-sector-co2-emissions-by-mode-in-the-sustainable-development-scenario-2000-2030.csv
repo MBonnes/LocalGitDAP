@@ -1,7 +1,4 @@
-Source: IEA. Licence: CC BY 4.0
-This data is subject to the IEA's terms and conditions: https://www.iea.org/t_c/termsandconditions/
-Units: Gt
-, Passenger road vehicles, Aviation, Road freight vehicles, Rail, Shipping, Other
+Year, Passenger road vehicles, Aviation, Road freight vehicles, Rail, Shipping, Other
 2000,2.535501062,0.673749567,1.701686311,0.085600505,0.621249198,0.139543496
 2001,2.587838249,0.656728212,1.721470782,0.082290771,0.596997808,0.143456962
 2002,2.66557415,0.663804395,1.755210699,0.084139638,0.613686425,0.145447897
